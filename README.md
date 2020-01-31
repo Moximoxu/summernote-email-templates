@@ -3,8 +3,16 @@ Summernote plugin for inserting email templates.
 
 # Installation
 Include the js file:
+
 ```javascript
 <script type="text/javascript" src="email_templates.js"></script>
+```
+
+Insert name of plugin while initialising Summernote:
+```javascript
+toolbar: [
+		['insert', ['emailTemplates']]
+	]
 ```
 
 # Example
