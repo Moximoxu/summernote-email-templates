@@ -1,4 +1,4 @@
-# Summernote Email Template
+# Summernote Email Templates
 Summernote plugin for inserting email templates.
 
 # Installation
