@@ -1,7 +1,7 @@
 # Summernote Email Templates
 Summernote plugin for inserting email templates.
 
-# Installation
+# Usage
 Include the js file:
 
 ```javascript
